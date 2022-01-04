@@ -7,9 +7,9 @@ ___________________
 
 ### Contact information:
 
-* E-mail:
-* Phone:
-* Telegram:
+* E-mail: tamrico2697@gmail.com
+* Phone: 8(985)251-65-14
+* Telegram: @tamrico826
 ******************
 
 ### About Myself:
@@ -39,6 +39,19 @@ Git, GitHub
 CMD
 Adobe Photoshop
 
+### Code examples
+
+```
+function greet(a){
+   a = "hello world!";
+  return a;
+  }
+```
+```
+function multiply(a, b){
+  return a * b; 
+}
+```
 
 ### Education:
 
@@ -53,9 +66,3 @@ Adobe Photoshop
 * Russian (Native)
 * English (Intermediate)
 * Armenian (Basic)
-<!--
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-
-Примеры кода
-
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.>
